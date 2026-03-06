@@ -11,6 +11,7 @@ const navItems = [
   { name: 'Contact', href: '#contact' },
 ]
 
+
 export default function Footer() {
   const currentYear = new Date().getFullYear()
 
