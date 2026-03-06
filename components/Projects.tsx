@@ -24,6 +24,20 @@ export default function Projects() {
         'Modern NFT gaming platform with responsive design and optimized performance.',
       tech: ['WordPress', 'Custom Theme', 'Performance Optimization'],
     },
+    {
+      title: 'Headless Project',
+      url: 'https://headlesswp01.netlify.app/',
+      description:
+        'A headless WordPress implementation: WordPress is used as the CMS while a decoupled frontend consumes content via the REST API. Deployed on Netlify for fast static delivery and improved performance.',
+      tech: ['Headless WordPress', 'WordPress REST API', 'Netlify'],
+    },
+    {
+      title: 'InstaNodes (in progress)',
+      url: 'https://www.instanodes.io/',
+      description:
+        'Currently in development — integrating InstaNodes features and APIs. This project explores API-driven workflows and frontend integration (work is ongoing).',
+      tech: ['API Integration', 'Node.js', 'Frontend Development'],
+    },
   ]
 
   return (

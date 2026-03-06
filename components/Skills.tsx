@@ -43,6 +43,14 @@ export default function Skills() {
             <h2 className="text-4xl md:text-5xl font-bold text-slate-50">
               Technical <span className="gradient-text">Skills</span>
             </h2>
+            <p className="text-slate-300 max-w-3xl mx-auto mt-4">
+              <strong>Headless WordPress:</strong> Using WordPress as a decoupled
+              content management system — content lives in WordPress while a
+              separate frontend (static or SPA) consumes the WordPress REST API
+              or GraphQL endpoints. This approach improves frontend
+              performance, enables modern toolchains (Next.js, Gatsby, etc.),
+              and gives developers more flexibility in UI and deployment.
+            </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 max-w-6xl mx-auto">
             {skillCategories.map((category, index) => (

@@ -36,6 +36,10 @@ export default function Experience() {
                 <li>Implemented Headless WordPress using REST APIs</li>
                 <li>Built and optimized WooCommerce stores</li>
                 <li>Improved performance and security</li>
+                <li>
+                  Currently developing and integrating the InstaNodes project (in
+                  progress) — <a href="https://www.instanodes.io/" className="text-blue-400 hover:text-blue-300">https://www.instanodes.io/</a>
+                </li>
               </ul>
             </div>
           </div>
