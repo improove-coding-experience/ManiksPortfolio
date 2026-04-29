@@ -21,7 +21,7 @@ body {
 }
 .bg-white\/5 {
     min-height: 285px;
-    /* BACKGROUND: RED; */
+    BACKGROUND: RED; 
 }
 /* Custom scrollbar */
 ::-webkit-scrollbar {
