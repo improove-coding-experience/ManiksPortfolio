@@ -19,10 +19,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-.bg-white\/5 {
-    min-height: 285px;
-    BACKGROUND: RED; 
-}
+
 /* Custom scrollbar */
 ::-webkit-scrollbar {
   width: 10px;
